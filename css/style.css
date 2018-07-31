@@ -1,0 +1,39 @@
+html, body {
+	height: 100%;
+}
+
+.nav-wrapper ul li a {
+	color: white;
+}
+
+@media (max-width: 600px){
+
+	p {
+		font-size: 1.2em;
+	}
+
+}
+
+@media (min-width: 600px){
+
+	p {
+		font-size: 1.2em;
+	}
+
+}
+
+@media (min-width: 992){
+
+	p {
+		font-size: 1.2em;
+	}
+
+}
+
+@media (min-width: 1200){
+
+	p {
+		font-size: 1.2em;
+	}
+
+}
